@@ -16,10 +16,10 @@ public static void main(String[] args) {
 			}
 		}
 		if (Sum == Number) {
-			System.out.format("\n% d bir mükemmel sayıdır.", Number);
+			System.out.format("\n% d bir mÃ¼kemmel sayidir.", Number);
 		}
 		else {
-			System.out.format("\n% d mükemmel sayı değildir.", Number);
+			System.out.format("\n% d mÃ¼kemmel sayi degildir.", Number);
 		}
 	}
 }
